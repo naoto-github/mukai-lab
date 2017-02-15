@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://naoto-github.github.io/mukai-lab/sitemap.xml 
